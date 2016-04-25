@@ -2,9 +2,11 @@
 
 GitHub offers free webpage hosting under the name '[GitHub Pages](https://pages.github.com/)'. 
 
-To create them you just need a normal GitHub account. 
+To create them you just need a normal GitHub account.
 
 ## Start by creating a repository (folder)
+
+*If you already have a repository for your project in GitHub, skip this stage.*
 
 The simplest way to get started is to create a 'repository' (also called 'repo'), basically a new project folder. 
 
@@ -59,6 +61,16 @@ Choose a layout that you want (the simpler the better, generally), and finish th
 
 ## Finding and editing your new webpage
 
-These webpages, and related style sheets (CSS) JavaScript and other code, sit within your GitHub account like any other files you might keep in GitHub. 
+Repositories in GitHub can have various '*branches*': these are typically different versions of a project. When creating a GitHub Pages site for your project, it is stored in one of these branches.
 
-However, 
+To find your new site, then, you will need to switch from the 'master' branch to the branch called '**gh-pages**' using the drop-down menu above the list of files in your repo:
+
+![](https://github.com/paulbradshaw/tables/blob/master/githubbranches.png)
+
+Once select, the view should change. You should see two files in this branch: `index.html` and `params.json`, and two folders: `javascripts` and `stylesheets`. If you had images in your body text then there will also be an `images` folder.
+
+![](https://github.com/paulbradshaw/tables/blob/master/pagesview.png)
+
+Once you are in this branch you can edit those files like you can any others in GitHub, by clicking on the file name, and then on that page clicking on the pencil 'edit' icon to the right (currently between the 'Desktop' icon and the 'bin' icon).
+
+You can also upload extra files (HTML files, images, CSS or JavaScript files for eaxmple) as you can normally in GitHub, by dragging them from your computer onto the GitHub Branches branch of the repo.
