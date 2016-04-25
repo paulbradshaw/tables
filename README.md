@@ -60,4 +60,4 @@ There is more than one theme. If you are going to try a different one, remember 
 
 ## Test it out
 
-Once you've made those changes, save (or commit, if using GitHub Pages) your changes, and test the results.
+Once you've made those changes, save (or commit, if using GitHub Pages) your changes, and test the results. However, note that changes do not show immediately live at your github.io address - you may have to wait a few minutes.
