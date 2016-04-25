@@ -74,3 +74,5 @@ Once select, the view should change. You should see two files in this branch: `i
 Once you are in this branch you can edit those files like you can any others in GitHub, by clicking on the file name, and then on that page clicking on the pencil 'edit' icon to the right (currently between the 'Desktop' icon and the 'bin' icon).
 
 You can also upload extra files (HTML files, images, CSS or JavaScript files for eaxmple) as you can normally in GitHub, by dragging them from your computer onto the GitHub Branches branch of the repo.
+
+But remember, to actually *see* the webpage, you will need to change the URL to your username followed by `.github.io/`, followed by the repo name.
