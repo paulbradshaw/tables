@@ -104,5 +104,5 @@ The result of this short line is that the table should now show all the extra in
 
 `});`
 
-The semi-colon is a little JavaScript convention to mark the end of a line.
+The semi-colon is a little [JavaScript convention to mark the end of a line](https://www.codecademy.com/blog/78).
 
